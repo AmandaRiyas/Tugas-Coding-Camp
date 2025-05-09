@@ -1,5 +1,5 @@
 # Menjalankan skrip
-python3 main.py
+python main.py
 
 # Menjalankan unit test pada folder tests
 python3 -m pytest tests
